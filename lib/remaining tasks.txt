@@ -1,0 +1,26 @@
+FIX_IOS_INTEGRATION (not working)
+
+1. Fix timer coming in reps based exercise (done)
+2. Fix Exercise Page UI (done)
+3. Rest should come after pressing next button too (done)
+4. Fix pedometer UI (done)
+5. Fix HomePage UI (done)
+6. Workout History (done)
+7. Sleep Schedule UI
+8. Alarm UI (done)
+9. Meal Tracker (done)
+10. JSON Fix of Meal Tracker (done)
+11. Fix age in Profile (done)
+12. Personal Data Page (done)
+13. Achievements Page
+14. Workout History Page (done)
+15. Workout Progress (abandoned)
+16. Fix Pop Up Notifications
+17. Fix Settings Page
+18. Fix main app bar (done)
+19. Fix bottom nav bar icon (done)
+20. Fix Profile Page Name And Pfp (done)
+21. Give edit option for name (done)
+22. Add level based system
+23. Add coins and reward systems (abandoned)
+

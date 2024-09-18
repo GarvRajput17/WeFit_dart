@@ -1,0 +1,658 @@
+{
+  "Monday": {
+    "meals": {
+      "breakfast": {
+        "name": "Chickpea Flour Pancakes",
+        "image": "lib/images/food_images/chickpea_pancakes.png",
+        "ingredients": [
+          "1 cup chickpea flour (besan)",
+          "1 cup water",
+          "1/2 teaspoon turmeric",
+          "Salt and black pepper to taste",
+          "Spring onions and chili flakes for topping"
+        ],
+        "instructions": [
+          "Mix chickpea flour, water, turmeric, salt, and pepper to form a smooth batter.",
+          "Heat a non-stick pan and pour ladlefuls of batter to make pancakes.",
+          "Cook until golden brown on both sides.",
+          "Top with spring onions and chili flakes."
+        ],
+        "Nutritional Values": [
+          "Calories: 234 kcal",
+          "Carbohydrates: 36 g",
+          "Protein: 13 g",
+          "Fat: 4 g",
+          "Saturated Fat: 1 g",
+          "Sodium: 626 mg",
+          "Fiber: 7 g",
+          "Sugar: 7 g",
+          "Vitamin A: 25 IU",
+          "Calcium: 116 mg",
+          "Iron: 3 mg1"
+        ]
+      },
+      "lunch": {
+        "name": "Quinoa and Black Bean Salad",
+        "image": "lib/images/food_images/quinoa.png",
+        "ingredients": [
+          "1 cup quinoa",
+          "2 cups water",
+          "1 can black beans, drained and rinsed",
+          "1 cup cherry tomatoes, halved",
+          "1 red bell pepper, diced",
+          "1/4 cup red onion, finely chopped",
+          "1/4 cup cilantro, chopped",
+          "Juice of 1 lime",
+          "2 tablespoons olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Rinse quinoa under cold water.",
+          "In a medium pot, bring water to a boil. Add quinoa, reduce heat, cover, and simmer for 15 minutes or until water is absorbed.",
+          "In a large bowl, combine cooked quinoa, black beans, tomatoes, bell pepper, red onion, and cilantro.",
+          "In a small bowl, whisk together lime juice, olive oil, salt, and pepper. Pour over quinoa mixture and toss to combine.",
+          "Serve chilled or at room temperature."
+        ],
+        "Nutritional Values": [
+          "Calories: 320 kcal",
+          "Protein: 12g",
+          "Carbohydrates: 45g",
+          "Fat: 10 g",
+          "Fiber: 10g"
+        ]
+      },
+      "dinner": {
+        "name": "Stuffed Bell Peppers",
+        "image": "lib/images/food_images/bp.png",
+        "ingredients": [
+          "4 bell peppers, halved and seeded",
+          "1 cup cooked quinoa",
+          "1 can black beans, drained and rinsed",
+          "1 cup corn kernels",
+          "1 cup diced tomatoes",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 tablespoon olive oil",
+          "1 teaspoon cumin",
+          "1 teaspoon chili powder",
+          "Salt and pepper to taste",
+          "1/2 cup shredded cheddar cheese"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "In a skillet, heat olive oil over medium heat. Add onion and garlic, sauté until softened.",
+          "Stir in quinoa, black beans, corn, diced tomatoes, cumin, chili powder, salt, and pepper.",
+          "Stuff bell pepper halves with the mixture and place in a baking dish.",
+          "Sprinkle with shredded cheddar cheese.",
+          "Bake for 25-30 minutes until peppers are tender and cheese is melted."
+        ],
+        "Nutritional Values": [
+          "Calories: 350",
+          "Protein: 15g",
+          "Carbohydrates: 45g",
+          "Fat: 12g",
+          "Fiber: 10g"
+        ]
+      }
+    }
+  },
+  "Tuesday": {
+    "meals": {
+      "breakfast": {
+        "name": "Tofu Scramble Tacos",
+        "image": "lib/images/food_images/tst.png",
+        "ingredients": [
+          "1 block firm tofu, crumbled",
+          "1 tablespoon olive oil",
+          "2 tablespoons nutritional yeast",
+          "1/2 teaspoon turmeric, salt to taste, Tortillas",
+          "Sautéed veggies (bell peppers, onions, spinach)"
+        ],
+        "instructions": [
+          "Sauté crumbled tofu in olive oil until lightly browned.",
+          "Add nutritional yeast, turmeric, and salt. Mix well.",
+          "Warm tortillas and fill with tofu scramble and sautéed veggies."
+        ],
+        "Nutritional Values": [
+          "Calories: 234 kcal",
+          "Carbohydrates: 36 g",
+          "Protein: 13 g",
+          "Fat: 4 g",
+          "Saturated Fat: 1 g",
+          "Sodium: 626 mg",
+          "Fiber: 7 g",
+          "Sugar: 7 g",
+          "Vitamin A: 25 IU",
+          "Calcium: 116 mg",
+          "Iron: 3 mg1"
+        ]
+      },
+      "lunch": {
+        "name": "Chickpea and Avocado Wrap",
+        "image": "lib/images/food_images/car.png",
+        "ingredients": [
+          "1 can chickpeas, drained and rinsed",
+          "1 ripe avocado, mashed",
+          "1 tablespoon lemon juice",
+          "1 tablespoon tahini",
+          "1 garlic clove, minced",
+          "Salt and pepper to taste",
+          "4 whole wheat tortillas",
+          "1 cup shredded lettuce",
+          "1 carrot, grated",
+          "1/2 cucumber, sliced",
+          "1/4 cup red onion, thinly sliced"
+        ],
+        "instructions": [
+          "In a bowl, mash chickpeas and avocado together.",
+          "Stir in lemon juice, tahini, garlic, salt, and pepper until well combined.",
+          "Spread the chickpea mixture evenly onto each tortilla.",
+          "Top with shredded lettuce, grated carrot, cucumber slices, and red onion.",
+          "Roll up the tortillas and cut in half before serving."
+        ],
+        "Nutritional Values": [
+          "Calories: 350 kcal",
+          "Carbohydrates: 48 g",
+          "Protein: 13 g",
+          "Fat: 14 g",
+          "Fiber: 12 g"
+        ]
+      },
+      "dinner": {
+        "name": "Vegetable Shepherd's pie",
+        "image": "lib/images/food_images/vsp.png",
+        "ingredients": [
+          "1 cup green lentils",
+          "3 cups vegetable broth",
+          "2 tablespoons olive oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "2 carrots, diced",
+          "1 cup peas",
+          "1 cup corn kernels",
+          "2 tablespoons tomato paste",
+          "1 teaspoon thyme",
+          "Salt and pepper to taste",
+          "4 cups mashed potatoes (prepared separately)"
+        ],
+        "instructions": [
+          "Preheat oven to 400°F (200°C).",
+          "Cook lentils in vegetable broth until tender, about 20-25 minutes.",
+          "In a large skillet, heat olive oil over medium heat. Add onion and garlic, sauté until softened.",
+          "Add carrots, peas, and corn, cook for another 5-7 minutes.",
+          "Stir in cooked lentils, tomato paste, thyme, salt, and pepper.",
+          "Transfer mixture to a baking dish and spread mashed potatoes on top.",
+          "Bake for 20 minutes until the top is golden brown."
+        ],
+        "Nutritional Values": [
+          "Calories: 450",
+          "Protein: 15g",
+          "Carbohydrates: 70g",
+          "Fat: 12g",
+          "Fiber: 15g"
+        ]
+      }
+    }
+  },
+  "Wednesday": {
+    "meals": {
+      "breakfast": {
+        "name": "Avocado Toast",
+        "image": "lib/images/food_images/avotoast.png",
+        "ingredients": [
+          "2 slices whole-grain bread",
+          "1 ripe avocado",
+          "1 tablespoon lemon juice",
+          "Salt and pepper to taste",
+          "1/4 teaspoon red pepper flakes (optional)"
+        ],
+        "instructions": [
+          "Toast the bread slices until golden brown.",
+          "Mash the avocado in a bowl and mix in the lemon juice, salt, and pepper.",
+          "Spread the avocado mixture evenly on the toasted bread.",
+          "Sprinkle red pepper flakes on top, if using."
+        ],
+        "Nutritional Values": [
+          "Calories: 250",
+          "Protein: 6g",
+          "Carbohydrates: 28g",
+          "Fat: 14g",
+          "Fiber: 10g"
+        ]
+      },
+      "lunch": {
+        "name": "Lentil and Vegetable Stir-Fry",
+        "image": "lib/images/food_images/stir_fry.png",
+        "ingredients": [
+          "1 cup cooked lentils",
+          "1 tablespoon olive oil",
+          "1 onion, sliced",
+          "2 garlic cloves, minced",
+          "1 red bell pepper sliced",
+          "1 zuchinni, sliced",
+          "1 cup broccoli florets",
+          "2 tablespoon sesame oil",
+          "1 tablespoon ginger, grated",
+          "1/4th cup green onions chopped",
+          "1 tablespoon sesame seeds"
+        ],
+        "instructions": [
+          "Heat olive oil in a large skillet over medium heat. Add onion and garlic, sauté for 2-3 minutes.",
+          "Add bell pepper, zucchini, and broccoli, stir-fry for 5-7 minutes until tender.",
+          "Stir in cooked lentils, soy sauce, rice vinegar, sesame oil, and ginger. Cook for another 2-3 minutes.",
+          "Garnish with green onions and sesame seeds before serving."
+        ],
+        "Nutritional Values": [
+          "Calories: 300 kcal",
+          "Carbohydrates: 40 g",
+          "Protein: 14 g",
+          "Fat: 10 g",
+          "Fiber: 12 g",
+          "Sugar: 7 g"
+        ]
+      },
+      "dinner": {
+        "name": "Vegetable stir-fy and Brown Rice",
+        "image": "lib/images/food_images/stir_fry.png",
+        "ingredients": [
+          "1 cup brown rice",
+          "2 tablespoons olive oil",
+          "1 onion, sliced",
+          "2 garlic cloves, minced",
+          "1 red bell pepper, sliced",
+          "1 yellow bell pepper, sliced",
+          "1 cup snap peas",
+          "1 cup broccoli florets",
+          "2 tablespoons soy sauce",
+          "1 tablespoon rice vinegar",
+          "1 teaspoon sesame oil",
+          "Salt and pepper to taste",
+          "Sesame seeds for garnish"
+        ],
+        "instructions": [
+          "Cook brown rice according to package instructions.",
+          "In a large skillet, heat olive oil over medium heat. Add onion and garlic, sauté for 2-3 minutes.",
+          "Add bell peppers, snap peas, and broccoli, stir-fry for 5-7 minutes until vegetables are tender.",
+          "Stir in soy sauce, rice vinegar, sesame oil, salt, and pepper. Cook for another 2 minutes.",
+          "Serve stir-fry over brown rice and garnish with sesame seeds."
+        ],
+        "Nutritional Values": [
+          "Calories: 400",
+          "Protein: 10g",
+          "Carbohydrates: 60g",
+          "Fat: 12g",
+          "Fiber: 8g"
+        ]
+      }
+    }
+  },
+  "Thursday": {
+    "meals": {
+      "breakfast": {
+        "name": "Spinach and Feta Stuffed Peppers",
+        "image": "lib/images/food_images/chickpea_pancakes.jpg",
+        "ingredients": [
+          "4 bell peppers, halved and seeded",
+          "1 cup cooked quinoa",
+          "2 cups fresh spinach, chopped",
+          "1/2 cup feta cheese, crumbled",
+          "1/4 cup sun-dried tomatoes, chopped",
+          "1 small onion, chopped",
+          "1 small onion, chopped",
+          "1 tablespoon olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "In a skillet, heat olive oil over medium heat. Add onion and garlic, sauté until softened..",
+          "Stir in spinach and cook until wilted.",
+          "In a large bowl, combine cooked quinoa, spinach mixture, feta cheese, and sun-dried tomatoes. Season with salt and pepper.",
+          "Stuff the bell pepper halves with the quinoa mixture and place in a baking dish.",
+          "Bake for 25-30 minutes until peppers are tender."
+        ],
+        "Nutritional Values": [
+          "Calories: 280 kcal",
+          "Carbohydrates: 36 g",
+          "Protein: 13 g",
+          "Fat: 12 g",
+          "Fiber: 8 g"
+        ]
+      },
+      "lunch": {
+        "name": "Greek Yogurt Parfait",
+        "image": "lib/images/food_images/byp.png",
+        "ingredients": [
+          "1 cup Greek yogurt",
+          "1/2 cup granola",
+          "1/2 cup mixed berries",
+          "1 tablespoon honey"
+        ],
+        "instructions": [
+          "Layer the Greek yogurt, granola, and mixed berries in a bowl or glass.",
+          "Drizzle honey on top before serving."
+        ],
+        "Nutritional Values": [
+          "Calories: 350",
+          "Protein: 18g",
+          "Carbohydrates: 52g",
+          "Fat: 10g",
+          "Fiber: 6g"
+        ]
+      },
+      "dinner": {
+        "name": "Eggplant Parmesan",
+        "image": "lib/images/food_images/eggplant.png",
+        "ingredients": [
+          "2 large eggplants, sliced",
+          "1 cup breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "2 eggs, beaten",
+          "2 cups marinara sauce",
+          "1 cup shredded mozzarella cheese",
+          "2 tablespoons olive oil",
+          "Salt and pepper to taste",
+          "Fresh basil for garnish"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "Dip eggplant slices in beaten eggs, then coat with a mixture of breadcrumbs and Parmesan cheese.",
+          "Heat olive oil in a skillet over medium heat. Fry eggplant slices until golden brown, about 2-3 minutes per side.",
+          "In a baking dish, layer marinara sauce, eggplant slices, and shredded mozzarella cheese.",
+          "Repeat layers until all ingredients are used, ending with a layer of cheese.",
+          "Bake for 25-30 minutes until cheese is bubbly and golden.",
+          "Garnish with fresh basil before serving."
+        ],
+        "Nutritional Values": [
+          "Calories: 400",
+          "Protein: 15g",
+          "Carbohydrates: 50g",
+          "Fat: 18g",
+          "Fiber: 10g"
+        ]
+      }
+    }
+  },
+  "Friday": {
+    "meals": {
+      "breakfast": {
+        "name": "Overnight Oats",
+        "image": "lib/images/food_images/oats.png",
+        "ingredients": [
+          "1/2 cup rolled oats",
+          "1/2 cup almond milk",
+          "1 tablespoon chia seeds",
+          "1 tablespoon maple syrup",
+          "1/2 teaspoon vanilla extract",
+          "1/2 cup diced fruit (e.g., berries, bananas)"
+        ],
+        "instructions": [
+          "In a jar or bowl, combine rolled oats, almond milk, chia seeds, maple syrup, and vanilla extract.",
+          "Stir well, cover, and refrigerate overnight.",
+          "In the morning, stir the oats and top with diced fruit before serving."
+        ],
+        "Nutritional Values": [
+          "Calories: 300",
+          "Protein: 8g",
+          "Carbohydrates: 48g",
+          "Fat: 10g",
+          "Fiber: 10g"
+        ]
+      },
+      "lunch": {
+        "name": "Tofu and Vegetable curry",
+        "image": "lib/images/food_images/tvc.png",
+        "ingredients": [
+          "1 cup cucumber dried",
+          "1 cup cherry tomatoes, halved",
+          "1/2 red onions, thinly sliced",
+          "1/4 cup kalamata olvies, pitted and sliced",
+          "1/4 cup feta chees, crumbled",
+          "1/4 cup olive oil",
+          "juice 1 lime cup",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste",
+          "1 cup hummus"
+        ],
+        "instructions": [
+          "In a large bowl, combine cucumber, cherry tomatoes, red onion, olives, and feta cheese.",
+          "In a small bowl, whisk together olive oil, lemon juice, oregano, salt, and pepper. Pour over salad and toss to combine.",
+          "Serve the salad with a side of hummus for dipping."
+
+        ],
+        "Nutritional Values": [
+          "Calories: 350 kcal",
+          "Carbohydrates: 25 g",
+          "Protein: 15 g",
+          "Fat: 22 g",
+          "Fiber: 7 g"
+        ]
+      },
+      "dinner": {
+        "name": "Mushroom and Spinach Risotto",
+        "image": "lib/images/food_images/mrs.png",
+        "ingredients": [
+          "1 cup Arborio rice",
+          "4 cups vegetable broth",
+          "2 tablespoons olive oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 cup mushrooms, sliced",
+          "2 cups fresh spinach",
+          "1/2 cup grated Parmesan cheese",
+          "1/4 cup white wine",
+          "Salt and pepper to taste",
+          "Fresh parsley for garnish"
+        ],
+        "instructions": [
+          "In a saucepan, heat vegetable broth and keep warm.",
+          "In a large pot, heat olive oil over medium heat. Add onion and garlic, sauté until softened.",
+          "Add Arborio rice and cook for 2 minutes, stirring constantly.",
+          "Pour in white wine and cook until absorbed.",
+          "Gradually add warm broth, one ladle at a time, stirring constantly until absorbed before adding more.",
+          "Stir in mushrooms and cook until tender.",
+          "Add fresh spinach and cook until wilted.",
+          "Stir in grated Parmesan cheese, salt, and pepper.",
+          "Garnish with fresh parsley before serving."
+        ],
+        "Nutritional Values": [
+          "Calories: 380",
+          "Protein: 10g",
+          "Carbohydrates: 60g",
+          "Fat: 12g",
+          "Fiber: 5g"
+        ]
+      }
+    }
+  },
+  "Saturday": {
+    "meals": {
+      "breakfast": {
+        "name": "Smoothie Bowl",
+        "image": "lib/images/food_images/sbowl.png",
+        "ingredients": [
+          "1 banana",
+          "1/2 cup frozen berries",
+          "1/2 cup almond milk",
+          "1 tablespoon almond butter",
+          "1/4 cup granola",
+          "1/4 cup fresh berries",
+          "1 tablespoon chia seeds"
+        ],
+        "instructions": [
+          "Blend banana, frozen berries, almond milk, and almond butter until smooth.",
+          "Pour the smoothie into a bowl.",
+          "Top with granola, fresh berries, and chia seeds before serving."
+        ],
+        "Nutritional Values": [
+          "Calories: 350",
+          "Protein: 8g",
+          "Carbohydrates: 58g",
+          "Fat: 12g",
+          "Fiber: 12g"
+        ]
+      },
+      "lunch": {
+        "name": "Veggie Scramble",
+        "image": "lib/images/food_images/vegscramble.png",
+        "ingredients": [
+          "1 banana",
+          "1/2 cup frozen berries",
+          "1/2 cup almond milk",
+          "1 tablespoon almond butter",
+          "1/4 cup granola",
+          "1/4 cup fresh berries",
+          "1 tablespoon chia seeds"
+        ],
+        "instructions": [
+          "Blend banana, frozen berries, almond milk, and almond butter until smooth.",
+          "Pour the smoothie into a bowl.",
+          "Top with granola, fresh berries, and chia seeds before serving."
+        ],
+        "Nutritional Values": [
+          "Calories: 350",
+          "Protein: 8g",
+          "Carbohydrates: 58g",
+          "Fat: 12g",
+          "Fiber: 12g"
+        ]
+      },
+      "dinner": {
+        "name": "Veggie Tacos",
+        "image": "lib/images/food_images/veggietacos.png",
+        "ingredients": [
+          "1 tablespoon olive oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 red bell pepper, sliced",
+          "1 zucchini, sliced",
+          "1 can black beans, drained and rinsed",
+          "1 teaspoon cumin",
+          "1 teaspoon chili powder",
+          "Salt and pepper to taste",
+          "8 small corn tortillas",
+          "1 avocado, sliced",
+          "1/4 cup fresh cilantro, chopped",
+          "Lime wedges for serving"
+        ],
+        "instructions": [
+          "In a large skillet, heat olive oil over medium heat. Add onion and garlic, sauté for 2-3 minutes.",
+          "Add bell pepper and zucchini, cook for 5-7 minutes until tender.",
+          "Stir in black beans, cumin, chili powder, salt, and pepper. Cook for another 2-3 minutes.",
+          "Warm tortillas in a dry skillet over medium heat.",
+          "Assemble tacos by filling tortillas with the veggie mixture, avocado slices, and fresh cilantro.",
+          "Serve with lime wedges on the side."
+        ],
+        "Nutritional Values": [
+          "Calories: 350",
+          "Protein: 10g",
+          "Carbohydrates: 50g",
+          "Fat: 12g",
+          "Fiber: 12g"
+        ]
+      }
+    }
+  },
+  "Sunday": {
+    "meals": {
+      "breakfast": {
+        "name": "Banana Pancakes",
+        "image": "lib/images/food_images/bp1.png",
+        "ingredients": [
+          "1 cup whole wheat flour",
+          "1 tablespoon baking powder",
+          "1/4 teaspoon salt",
+          "1 cup almond milk",
+          "1 ripe banana, mashed",
+          "1 tablespoon maple syrup",
+          "1/2 teaspoon vanilla extract",
+          "1 tablespoon coconut oil (for cooking)"
+        ],
+        "instructions": [
+          "In a bowl, combine whole wheat flour, baking powder, and salt.",
+          "In another bowl, mix almond milk, mashed banana, maple syrup, and vanilla extract.",
+          "Combine the wet and dry ingredients and mix until just combined.",
+          "Heat coconut oil in a skillet over medium heat. Pour 1/4 cup of batter for each pancake.",
+          "Cook until bubbles form on the surface, then flip and cook until golden brown."
+        ],
+        "Nutritional Values": [
+          "Calories: 280",
+          "Protein: 6g",
+          "Carbohydrates: 50g",
+          "Fat: 8g",
+          "Fiber: 6g"
+        ]
+      },
+      "lunch": {
+        "name": "Tofu and vegetable curry",
+        "image": "lib/images/food_images/tvc.png",
+        "ingredients": [
+          "1 block firm tofu cubed",
+          "1 tablespoon coconut oil",
+          "1 onion chopped",
+          "2 garlic cloves minced",
+          "1 tablespoon ginger grated",
+          "1 can coconut milk",
+          "1 tablespoon curry powder",
+          "1 teaspoon turmeric",
+          "1 cup carrots sliced",
+          "1 cup green beans trimmed and cut",
+          "1 cup baby spinach",
+          "Salt and pepper to taste",
+          "Fresh cilantro for garnish"
+        ],
+        "instructions": [
+          "In a large pot, heat coconut oil over medium heat. Add onion, garlic, and ginger, sauté for 3-4 minutes.",
+          "Stir in curry powder and turmeric, cook for another minute.",
+          "Add coconut milk, carrots, and green beans. Bring to a simmer and cook until vegetables are tender.",
+          "Add tofu cubes and baby spinach, cook for another 5 minutes until spinach is wilted.",
+          "Season with salt and pepper. Garnish with fresh cilantro before serving."
+        ],
+        "Nutritional Values": [
+          "Calories: 234 kcal",
+          "Carbohydrates: 36 g",
+          "Protein: 13 g",
+          "Fat: 4 g",
+          "Saturated Fat: 1 g",
+          "Sodium: 626 mg",
+          "Fiber: 7 g",
+          "Sugar: 7 g",
+          "Vitamin A: 25 IU",
+          "Calcium: 116 mg",
+          "Iron: 3 mg1"
+        ]
+      },
+      "dinner": {
+        "name": "Cauliflower and chickpea curry",
+        "image": "lib/images/food_images/cac.png",
+        "ingredients": [
+          "1 head cauliflower, cut into florets",
+          "1 can chickpeas, drained and rinsed",
+          "2 tablespoons olive oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 tablespoon ginger, grated",
+          "1 can coconut milk",
+          "2 tablespoons curry powder",
+          "1 teaspoon turmeric",
+          "1 teaspoon cumin",
+          "Salt and pepper to taste",
+          "Fresh cilantro for garnish"
+        ],
+        "instructions": [
+          "In a large pot, heat olive oil over medium heat. Add onion, garlic, and ginger, sauté for 3-4 minutes.",
+          "Stir in curry powder, turmeric, and cumin, cook for another minute.",
+          "Add cauliflower florets and chickpeas, stir to coat with spices.",
+          "Pour in coconut milk and bring to a simmer. Cook until cauliflower is tender, about 15-20 minutes.",
+          "Season with salt and pepper. Garnish with fresh cilantro before serving."
+        ],
+        "Nutritional Values": [
+          "Calories: 350",
+          "Protein: 10g",
+          "Carbohydrates: 35g",
+          "Fat: 20g",
+          "Fiber: 10g"
+        ]
+      }
+    }
+  }
+}

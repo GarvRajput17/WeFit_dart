@@ -1,0 +1,251 @@
+[
+  {
+
+    "name": "Push Ups",
+    "youtube_link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8",
+    "focus_areas": ["Chest", "Arms", "Shoulders"],
+    "description": "A basic upper body exercise that targets the chest, triceps, and shoulders.",
+    "image": "lib/images/workout/Pushup.png"
+  },
+  {
+    "name": "Jumping Jacks",
+    "youtube_link": "https://www.youtube.com/watch?v=c4DAnQ6DtF8",
+    "focus_areas": ["Full Body", "Cardio"],
+    "description": "A full-body workout that increases heart rate and burns calories.",
+    "image": "lib/images/workout/Jumping Jacks.png"
+  },
+  {
+    "name": "Russian Twist",
+    "youtube_link": "https://www.youtube.com/watch?v=JyUqwkVpsi8",
+    "focus_areas": ["Abs", "Obliques"],
+    "description": "An effective exercise for strengthening the core and oblique muscles.",
+    "image": "lib/images/workout/RussianTwist.png"
+  },
+  {
+    "name": "Abdominal Crunches",
+    "youtube_link": "https://www.youtube.com/watch?v=Xyd_fa5zoEU",
+    "focus_areas": ["Abs"],
+    "description": "Targets the abdominal muscles and helps in building core strength.",
+    "image": "lib/images/workout/Abdcrunch.png"
+  },
+  {
+    "name": "Arm Stretch",
+    "youtube_link": "https://www.youtube.com/watch?v=nXE9GoR1v04",
+    "focus_areas": ["Arms", "Shoulders"],
+    "description": "A simple stretch to improve flexibility and reduce tension in the arms and shoulders.",
+    "image": "lib/images/workout/Armraiseswing.png"
+  },
+  {
+    "name": "Arm Swing",
+    "youtube_link": "https://www.youtube.com/watch?v=mAVpd-3FUMY",
+    "focus_areas": ["Shoulders", "Arms"],
+    "description": "Increases blood flow to the arms and shoulders, loosening the muscles.",
+    "image": "lib/images/workout/Armraiseswing.png"
+  },
+  {
+    "name": "Back Lunge",
+    "youtube_link": "https://www.youtube.com/watch?v=SPiV6FCX-Tc",
+    "focus_areas": ["Legs", "Glutes"],
+    "description": "A lower-body exercise that targets the glutes, quads, and hamstrings.",
+    "image": "lib/images/workout/Lunges.png"
+  },
+  {
+    "name": "Front Lunge",
+    "youtube_link": "https://www.youtube.com/watch?v=QOVaHwm-Q6U",
+    "focus_areas": ["Legs", "Glutes"],
+    "description": "Engages the glutes, quads, and hamstrings for leg strength.",
+    "image": "lib/images/workout/Lunges.png"
+  },
+  {
+    "name": "Inchworm",
+    "youtube_link": "https://www.youtube.com/watch?v=JbVghcardkw",
+    "focus_areas": ["Full Body", "Core"],
+    "description": "A dynamic warm-up exercise that targets the entire body and core.",
+    "image": "lib/images/workout/Burpees.png"
+  },
+  {
+    "name": "Burpees",
+    "youtube_link": "https://www.youtube.com/watch?v=dZgVxmf6jkA",
+    "focus_areas": ["Full Body", "Cardio"],
+    "description": "A full-body exercise that builds strength and endurance.",
+    "image": "lib/images/workout/Burpees.png"
+  },
+  {
+    "name": "Cobra Stretch",
+    "youtube_link": "https://www.youtube.com/watch?v=4XyOb9WJZz8",
+    "focus_areas": ["Back", "Core"],
+    "description": "A stretch that helps to strengthen the spine and reduce back pain.",
+    "image": "lib/images/workout/Cobra.png"
+  },
+  {
+    "name": "Left Side Lumbar Stretch",
+    "youtube_link": "https://www.youtube.com/watch?v=jsTI3Hq1gFg",
+    "focus_areas": ["Back", "Core"],
+    "description": "A stretch that targets the lumbar spine and improves flexibility.",
+    "image": "lib/images/workout/Lumbarlr.png"
+  },
+  {
+    "name": "Right Side Lumbar Stretch",
+    "youtube_link": "https://www.youtube.com/watch?v=jsTI3Hq1gFg",
+    "focus_areas": ["Back", "Core"],
+    "description": "A stretch that targets the lumbar spine and improves flexibility.",
+    "image": "lib/images/workout/Lumbarlr.png"
+  },
+  {
+    "name": "Diamond Push Up",
+    "youtube_link": "https://www.youtube.com/watch?v=J0DnG1_S92I",
+    "focus_areas": ["Chest", "Triceps", "Shoulders"],
+    "description": "Targets the triceps, chest, and shoulders with an emphasis on the triceps.",
+    "image": "lib/images/workout/Pushup.png"
+  },
+  {
+    "name": "Pull Ups",
+    "youtube_link": "https://www.youtube.com/watch?v=eGo4IYlbE5g",
+    "focus_areas": ["Back", "Arms"],
+    "description": "A powerful upper body exercise that targets the back, shoulders, and arms.",
+    "image": "lib/images/workout/Burpees.png"
+  },
+  {
+    "name": "Plank",
+    "youtube_link": "https://www.youtube.com/watch?v=ASdvN_XEl_c",
+    "focus_areas": ["Core", "Shoulders"],
+    "description": "An isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
+    "image": "lib/images/workout/Plank.png"
+  },
+  {
+    "name": "Elbow Push Up",
+    "youtube_link": "https://www.youtube.com/watch?v=iqy5z8G3M2M",
+    "focus_areas": ["Chest", "Arms", "Shoulders"],
+    "description": "A variation of the push-up that engages the core and upper body.",
+    "image": "lib/images/workout/Pushup.png"
+  },
+  {
+    "name": "High Knees",
+    "youtube_link": "https://www.youtube.com/watch?v=oDdkytliOqE",
+    "focus_areas": ["Legs", "Cardio"],
+    "description": "A cardio-intensive exercise that engages the core and leg muscles.",
+    "image": "lib/images/workout/Jumping Jacks.png"
+  },
+  {
+    "name": "Knee Push Ups",
+    "youtube_link": "https://www.youtube.com/watch?v=E0dKpVwDNYY",
+    "focus_areas": ["Chest", "Arms", "Shoulders"],
+    "description": "A beginner-friendly push-up variation that targets the chest, triceps, and shoulders.",
+    "image": "lib/images/workout/Pushup.png"
+  },
+  {
+    "name": "Lateral Raises",
+    "youtube_link": "https://www.youtube.com/watch?v=kD1M6eqFtyo",
+    "focus_areas": ["Shoulders"],
+    "description": "Strengthens the deltoids, particularly the lateral muscles.",
+    "image": "lib/images/workout/Raise.png"
+  },
+  {
+    "name": "Mountain Climber",
+    "youtube_link": "https://www.youtube.com/watch?v=nmwgirgXLYM",
+    "focus_areas": ["Core", "Legs", "Cardio"],
+    "description": "A full-body workout that strengthens the core and boosts cardiovascular fitness.",
+    "image": "lib/images/workout/Mc.png"
+  },
+  {
+    "name": "Push Up-Claps",
+    "youtube_link": "https://www.youtube.com/watch?v=Yk0N2n-8q68",
+    "focus_areas": ["Chest", "Arms", "Shoulders"],
+    "description": "An advanced push-up variation that increases power and explosiveness.",
+    "image": "lib/images/workout/Incline.png"
+  },
+  {
+    "name": "Side Stretch",
+    "youtube_link": "https://www.youtube.com/watch?v=jc9D7CJ6iUg",
+    "focus_areas": ["Core", "Obliques"],
+    "description": "Improves flexibility in the oblique muscles and stretches the core.",
+    "image": "lib/images/workout/Armraiseswing.png"
+  },
+  {
+    "name": "Squats",
+    "youtube_link": "https://www.youtube.com/watch?v=aclHkVaku9U",
+    "focus_areas": ["Legs", "Glutes"],
+    "description": "A lower-body exercise that targets the quads, hamstrings, and glutes.",
+    "image": "lib/images/workout/Squats.png"
+  },
+  {
+    "name": "Spiderman Push Ups",
+    "youtube_link": "https://www.youtube.com/watch?v=Sk1Rw7JHLtw",
+    "focus_areas": ["Chest", "Arms", "Core"],
+    "description": "Combines push-ups with a dynamic leg movement to engage the core and upper body.",
+    "image": "lib/images/workout/Spidpushup.png"
+  },
+  {
+    "name": "Toe Touch",
+    "youtube_link": "https://www.youtube.com/watch?v=7xk9BHfxygM",
+    "focus_areas": ["Legs", "Core"],
+    "description": "A stretch that targets the hamstrings and improves flexibility in the lower back.",
+    "image": "lib/images/workout/Ttouch.png"
+  },
+  {
+    "name": "Tricep Dips",
+    "youtube_link": "https://www.youtube.com/watch?v=0326dy_-CzM",
+    "focus_areas": ["Triceps", "Arms"],
+    "description": "An exercise that isolates the triceps and builds arm strength.",
+    "image": "lib/images/workout/Tricepdips.png"
+  },
+  {
+    "name": "Wall Push Ups",
+    "youtube_link": "https://www.youtube.com/watch?v=K2VljzCC16g",
+    "focus_areas": ["Chest", "Arms", "Shoulders"],
+    "description": "A beginner-friendly push-up variation that targets the chest and triceps.",
+    "image": "lib/images/workout/Pushup.png"
+  },
+  {
+    "name": "Wide Push Ups",
+    "youtube_link": "https://www.youtube.com/watch?v=J0DnG1_S92I",
+    "focus_areas": ["Chest", "Shoulders", "Arms"],
+    "description": "Targets the chest and shoulders with a wider hand placement than standard push-ups.",
+    "image": "lib/images/workout/Pushup.png"
+  },
+  {
+    "name": "Lateral Leg Raises",
+    "youtube_link": "https://www.youtube.com/watch?v=JB2oyawG9KI",
+    "focus_areas": ["Glutes", "Hips", "Legs"],
+    "description": "Strengthens the glutes and hip muscles while improving balance.",
+    "image": "path_to_image"
+  },
+  {
+    "name": "Wall Pushes",
+    "youtube_link": "https://www.youtube.com/watch?v=K2VljzCC16g",
+    "focus_areas": ["Chest", "Arms", "Shoulders"],
+    "description": "A variation of push-ups done against a wall, targeting the chest and triceps.",
+    "image": "lib/images/workout/Wallpush.png"
+  },
+  {
+    "name": "Inchworms",
+    "youtube_link": "https://www.youtube.com/watch?v=JbVghcardkw",
+    "focus_areas": ["Full Body", "Core"],
+    "description": "A dynamic warm-up exercise that targets the entire body and core.",
+    "image": "lib/images/workout/Burpees.png"
+  },
+  {
+    "name": "Spiderman Push Ups",
+    "youtube_link": "https://www.youtube.com/watch?v=Sk1Rw7JHLtw",
+    "focus_areas": ["Chest", "Arms", "Core"],
+    "description": "Combines push-ups with a dynamic leg movement to engage the core and upper body.",
+    "image": "lib/images/workout/Spidpushup.png"
+  },
+  {
+    "name": "Push Claps",
+    "youtube_link": "https://www.youtube.com/watch?v=Yk0N2n-8q68",
+    "focus_areas": ["Chest", "Arms", "Shoulders"],
+    "description": "An advanced push-up variation that increases power and explosiveness by adding a clap.",
+    "image": "lib/images/workout/Pushup.png"
+  },
+  {
+    "name": "Back Stretch",
+    "youtube_link": "https://www.youtube.com/watch?v=xkGLvVZIxXA",
+    "focus_areas": ["Lower Back", "Core"],
+    "description": "A stretch similar to the butt bridge, targeting the lower back and core to improve flexibility and reduce tension.",
+    "image": "lib/images/workout/Backlungr.png"
+  }
+
+
+]
+
