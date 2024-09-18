@@ -48,7 +48,7 @@ To get a local copy up and running, follow these steps:
 
 2. **Clone the Repository:**
    ```sh
-   git clone https://github.com/GarvRajput17/WeFit_app.git
+   git clone https://github.com/GarvRajput17/WeFit_dart.git
 3. Get Dependencies:
    ```sh
    flutter pub get
